@@ -17,8 +17,7 @@ Technologies Used:
     
 Description:
 
-    In this project, I involved various operations in ATM like Withdrawal, Deposit, Pin Generation, Mini statements etc,..
-    
+    In this project, I involved various operations in ATM like Withdrawal, Deposit, Pin Generation, Mini statements etc,..  
 Tools:
 
     Visual Studio Code
